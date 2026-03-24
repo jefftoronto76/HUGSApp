@@ -1,0 +1,104 @@
+{
+  "id": "stroke-support",
+  "title": "Supporting Someone After Stroke: Communication Strategies That Help",
+  "subtitle": "Evidence-based guidance for caregivers and family members",
+  "sections": [
+    {
+      "type": "intro",
+      "title": "Understanding Communication After Stroke",
+      "content": "Stroke can affect a person's ability to communicate in many ways. They may have difficulty speaking, understanding others, reading, or writing. These changes can be frustrating for both the survivor and their loved ones. This guide provides practical strategies to support effective communication."
+    },
+    {
+      "type": "principles",
+      "title": "Core Communication Principles",
+      "items": [
+        {
+          "number": 1,
+          "title": "Give Them Time",
+          "description": "Processing language and forming responses takes longer after stroke. Allow extra time without rushing or interrupting.",
+          "examples": [
+            "Wait at least 10-15 seconds after asking a question",
+            "Resist the urge to finish their sentences",
+            "Show patience through calm body language"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Simplify Your Language",
+          "description": "Use short, clear sentences with familiar words. Break complex information into smaller pieces.",
+          "examples": [
+            "Use concrete words instead of abstract concepts",
+            "Ask one question at a time",
+            "Avoid medical jargon and complex vocabulary"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Use Multiple Communication Methods",
+          "description": "Combine spoken words with gestures, pictures, writing, or pointing to support understanding.",
+          "examples": [
+            "Point to objects you're talking about",
+            "Use simple drawings or photos",
+            "Write down key words"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Reduce Distractions",
+          "description": "Background noise and visual clutter make communication more difficult. Create a calm environment.",
+          "examples": [
+            "Turn off the TV or radio during conversations",
+            "Find a quiet space for important discussions",
+            "Face them directly when speaking"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Confirm Understanding",
+          "description": "Check that your message was understood and that you understood their message correctly.",
+          "examples": [
+            "Ask them to show you or point to what they mean",
+            "Repeat back what you think they said",
+            "Use yes/no questions to verify"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "title": "What to Avoid",
+      "items": [
+        {
+          "title": "Don't Talk Down to Them",
+          "content": "Stroke affects language, not intelligence. Avoid using a childish tone or overly simple language that feels condescending. Treat them as the capable adult they are."
+        },
+        {
+          "title": "Don't Pretend to Understand",
+          "content": "If you don't understand what they're trying to communicate, be honest. Ask them to try again in a different way, or suggest alternative methods like writing or drawing."
+        },
+        {
+          "title": "Don't Exclude Them from Conversations",
+          "content": "Include them in group discussions, even if communication is challenging. Address them directly and give them opportunities to participate at their own pace."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "title": "When to Seek Professional Help",
+      "items": [
+        {
+          "title": "Speech-Language Pathologist",
+          "content": "A speech-language pathologist can assess communication challenges and provide targeted therapy. They can teach specific strategies tailored to the individual's needs."
+        },
+        {
+          "title": "Support Groups",
+          "content": "Connecting with other stroke survivors and caregivers provides emotional support and practical tips. Many hospitals and community organizations offer free support groups."
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "content": "Recovery from stroke is a journey that takes time and patience. Communication may improve significantly in the first few months, and progress can continue for years. Your support and understanding make a meaningful difference in their recovery and quality of life."
+    }
+  ]
+}
