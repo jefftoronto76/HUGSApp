@@ -1,0 +1,194 @@
+{
+  "title": "Supporting Someone After Stroke",
+  "subtitle": "Communication Strategies That Help",
+  "description": "Practical communication strategies based on caregiver experience",
+
+  "about": "This document was created based on personal experience supporting a family member after a stroke, combined with general recovery research. Every stroke is different. These ideas are simply practical strategies that may help reduce frustration and improve daily interaction.",
+
+  "disclaimer": "This guide is not medical advice. Stroke recovery varies greatly from person to person. Always follow guidance from healthcare professionals. Use what is helpful and ignore what is not.",
+
+  "why": [
+    "After a stroke, the brain systems responsible for motivation, initiation, and focus may be weakened. What can look like stubbornness or lack of effort is often neurological.",
+    "The brain may need more time to start tasks, process requests, or shift attention. This is the result of injury, not personality.",
+    "Too much pressure can cause the brain to shut down.",
+    "A calm and simple approach helps it re-engage."
+  ],
+
+  "principle": {
+    "title": "Core Principle",
+    "lines": [
+      "Connection before correction.",
+      "Start with calm support, then invite action."
+    ]
+  },
+
+  "principleBridge": "The strategies below are simple ways to apply this approach in everyday interactions.",
+
+  "strategies": [
+
+    {
+      "title": "Use Simple Language",
+      "description": "Keep requests short and clear.",
+      "instead": "You really should get up and walk a little bit. It would be good for you.",
+      "try": [
+        "Let's stand up once.",
+        "Let's walk to the kitchen."
+      ],
+      "note": "Small steps are easier for the brain to start."
+    },
+
+    {
+      "title": "Offer Two Choices",
+      "description": "Open-ended questions can feel overwhelming.",
+      "instead": "Do you want to go for a walk?",
+      "try": [
+        "Before lunch or after lunch?",
+        "Walk to the kitchen or the mailbox?"
+      ],
+      "note": "Binary choices preserve autonomy while keeping the task manageable."
+    },
+
+    {
+      "title": "Shrink the Ask",
+      "description": "If something feels too big, make it smaller.",
+      "instead": "Let's go for a five-minute walk.",
+      "try": [
+        "Let's take three steps.",
+        "Let's stand up once."
+      ],
+      "note": "Often once the movement starts, more will follow."
+    },
+
+    {
+      "title": "Tie Movement to a Real Activity",
+      "description": "Movement feels easier when it has a purpose.",
+      "instead": "We should get some exercise.",
+      "try": [
+        "Let's go check the mail.",
+        "Let's walk to the kitchen and get some tea.",
+        "Let's go look out the window."
+      ],
+      "note": "This makes movement feel natural instead of like a chore."
+    },
+
+    {
+      "title": "Recognize Small Wins",
+      "description": "Positive feedback helps reinforce progress.",
+      "instead": "That wasn't very far.",
+      "try": [
+        "Nice job getting up.",
+        "That was a good walk.",
+        "You moved really well there."
+      ],
+      "note": "Small wins build confidence."
+    },
+
+    {
+      "title": "Avoid Emotional Pressure",
+      "description": "High emotional intensity can cause the brain to shut down.",
+      "instead": [
+        "You have to try harder.",
+        "You're not helping yourself.",
+        "Think positive."
+      ],
+      "try": [
+        "How are you feeling today?",
+        "That was a good start."
+      ],
+      "note": "Calm communication helps the brain stay engaged."
+    }
+
+  ],
+
+  "resistanceTitle": "What To Do About Resistance",
+
+  "resistanceIntro": [
+    "Post-stroke resistance is very common.",
+    "It usually means the **brain is overloaded or tired**, not that they are refusing.",
+    "When this happens, the goal is to **reduce pressure and restart gently**."
+  ],
+
+  "situations": [
+
+    {
+      "title": "When they say No",
+      "avoid": [
+        "Come on, you need to do this.",
+        "You have to try."
+      ],
+      "try": [
+        "Okay, how about we just stand up once?",
+        "Would you rather do it before lunch or after lunch?"
+      ],
+      "note": "This reduces pressure."
+    },
+
+    {
+      "title": "When they ignore the request",
+      "description": "Sometimes the brain needs extra time to process.",
+      "try": [
+        "Let's wait a moment, then say: Let's try standing up once.",
+        "Let's walk to the kitchen together."
+      ],
+      "note": "Keep tone calm."
+    },
+
+    {
+      "title": "When they become irritated",
+      "description": "Frustration can happen when the brain feels overwhelmed.",
+      "try": [
+        "Let's grab a glass of water.",
+        "Let's go check the window."
+      ],
+      "note": "Switching activities often resets the situation."
+    },
+
+    {
+      "title": "When they say they are tired",
+      "description": "Fatigue is very real after stroke.",
+      "avoid": [
+        "You just got up."
+      ],
+      "try": [
+        "Okay, let's just sit up for a minute.",
+        "Let's stand up once and then rest."
+      ],
+      "note": "Reducing the task helps the brain accept it."
+    },
+
+    {
+      "title": "When they refuse repeatedly",
+      "try": [
+        "Pause.",
+        "Change the topic.",
+        "Try again later."
+      ],
+      "note": "Sometimes the brain responds better after a short break."
+    }
+
+  ],
+
+  "reminders": {
+    "title": "Helpful Reminders",
+    "items": [
+      "Repetition",
+      "Small wins",
+      "Predictable routines",
+      "Low emotional pressure",
+      "Respectful tone"
+    ],
+    "note": "Consistency matters more than effort."
+  },
+
+  "finalRule": {
+    "title": "Final Rule",
+    "lines": [
+      "When things are difficult:",
+      "Reduce pressure.",
+      "Make the request smaller.",
+      "Try again later.",
+      "Progress happens through patience and repetition."
+    ]
+  }
+
+}
